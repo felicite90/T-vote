@@ -1,12 +1,12 @@
 # Prérequis
 Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votre machine :
-    **Node.js** (dernière version recommandée)
-    **Python 3.x**
+    Node.js (dernière version recommandée)
+    Python 3.x
 1. Mise à jour de Node.js
     Vérifiez la version actuelle de Node.js avec la commande suivante :
-    **node -v**
+    node -v
     La version recommandée est:
-    **v22.7.0.** Si vous devez mettre à jour Node.js, suivez les instructions spécifiques à votre système d'exploitation.
+    v22.7.0.*Si vous devez mettre à jour Node.js, suivez les instructions spécifiques à votre système d'exploitation.
 # Installation de Yarn
 2. Installez Yarn globalement en utilisant npm :
     sudo npm install --global yarn
