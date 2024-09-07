@@ -1,0 +1,43 @@
+/* Le css de l'application App : Composant princiapl */
+.navbar {
+  background-color: #2e158c;
+  width: 100% !important;
+}
+
+.brand,
+.list_item {
+  color: #fff !important;
+}
+
+.list_item {
+  margin-right: .5em !important;
+  list-style: none !important;
+  text-decoration: double;
+  background-color: #000;
+  padding: .5em;
+}
+
+.btn {
+  background: tomato !important;
+  border: none;
+  border-radius: 20px !important;
+}
+
+.list_item:visited {
+  color: tomato Im !important;
+}
+
+button.navbar-toggler.collapsed {
+  background-color: white !important;
+}
+
+.footer {
+  background-color: #2e158c;
+  border-top: 2px solid #000;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  color: white;
+  font-size: 11px;
+  padding-top: 1em !important;
+}
